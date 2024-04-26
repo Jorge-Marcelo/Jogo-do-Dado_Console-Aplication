@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos Console Aplication\Jogo do Dado\Jogo do Dado\bin\Debug\Jogo do Dado.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos Console Aplication\Jogo do Dado\Jogo do Dado\bin\Debug\Jogo do Dado.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos Console Aplication\Jogo do Dado\Jogo do Dado\bin\Debug\Jogo do Dado.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos Console Aplication\Jogo do Dado\Jogo do Dado\obj\Debug\Jogo do Dado.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos Console Aplication\Jogo do Dado\Jogo do Dado\obj\Debug\Jogo do Dado.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos Console Aplication\Jogo do Dado\Jogo do Dado\obj\Debug\Jogo do Dado.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos Console Aplication\Jogo do Dado\Jogo do Dado\obj\Debug\Jogo do Dado.pdb
