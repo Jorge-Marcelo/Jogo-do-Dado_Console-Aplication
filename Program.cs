@@ -27,7 +27,7 @@ namespace Jogo_do_Dado
 
 			for (int contador = 0; contador < 10; contador++)
 			{
-				Console.WriteLine("Digite qualquer tecla para rodar o dado");
+				Console.Write("Digite qualquer tecla para rodar o dado: ");
 				Console.ReadKey();/*Captuar qualquer tecla do teclado*/
 
 
