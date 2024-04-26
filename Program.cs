@@ -29,6 +29,8 @@ namespace Jogo_do_Dado
 			{
 				Console.Write("Digite qualquer tecla para rodar o dado: ");
 				Console.ReadKey();/*Captuar qualquer tecla do teclado*/
+				Console.WriteLine("");
+
 
 
 				/*Gerar um numero aleatorio entre 1 e 6*/
