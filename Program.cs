@@ -39,7 +39,7 @@ namespace Jogo_do_Dado
 				Thread.Sleep(3000);
 
 				NumeroAleatorioCPU = random.Next(1, 7);
-				Console.WriteLine($"A CPU rolou o dado {NumeroAleatorioCPU} ");
+				Console.WriteLine($"A CPU rolou o dado {NumeroAleatorioCPU} vezes ");
 
 				Console.WriteLine("......");
 				Thread.Sleep(3000);
